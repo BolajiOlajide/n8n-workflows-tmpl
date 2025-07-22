@@ -1,3 +1,0 @@
-# Automated Social Media Content Publisher
-
-An n8n workflow utilizing OpenAI GPT-4 and LangChain that automates content creation and publishing across Twitter (X), Instagram, Facebook, LinkedIn, Threads, and YouTube Shorts. It dynamically composes prompts and schemas from Google Docs, generates contextual posts with AI, creates matching images using pollinations.ai, and publishes or archives content with approvals and notifications.
